@@ -1,7 +1,6 @@
-# DecayElement-Project
 # Survey of the human genome for potential miRNA decay elements (miRNA sponges)
 
-This code from back in the day surveyed the human genome for potential microRNA sponges (decay elements)
+This code from back in the day surveyed the human genome for potential microRNA sponges (decay elements).
 
 It utilizes the miRBase database, https://www.mirbase.org, to identify segments in the genome that can potentially host multiple target sites for human microRNAs.
 Pipeline flow:
