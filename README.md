@@ -1,5 +1,5 @@
 # DecayElement-Project
-Survey of the human genome for potential miRNA decay elements (miRNA sponges)
+# Survey of the human genome for potential miRNA decay elements (miRNA sponges)
 
 This code from back in the day surveyed the human genome for potential microRNA sponges (decay elements)
 
